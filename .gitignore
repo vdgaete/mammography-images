@@ -171,3 +171,8 @@ cython_debug/
 #.idea/
 TCC.idx
 .gitignore
+TCC.ilg
+TCC.ind
+TCC.lof
+TCC.lot
+TCC.toc
